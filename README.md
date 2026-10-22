@@ -1,5 +1,5 @@
 # Aquatic-Ecotoxicity-Risk-Screener
-A cheminformatics and machine learning pipeline to predict acute aquatic toxicity ($pLC_{50}$) from molecular structures using Quantitative Structure-Activity Relationship (QSPR) modeling.
+A cheminformatics and machine learning pipeline to predict acute aquatic toxicity ($pLC_{50}$) from molecular structures using Quantitative Structure-Property Relationship (QSPR) modeling.
 
 ## Overview
 This project evaluates the environmental toxicity of organic pollutants by mapping molecular properties to experimental aquatic toxicity endpoints. It demonstrates an end-to-end workflow from SMILES parsing and molecular descriptor extraction to supervised machine learning and rigorous cross-validation.
